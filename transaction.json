@@ -1,0 +1,23 @@
+{
+    "Policy_Holder_ID":"H10Jangid10",
+    "Premium": 10,
+    "Sum_Assuered": 100000
+}
+
+{
+    "Policy_Holder_ID":"R02Chugh02",
+    "Premium": 20,
+    "Sum_Assuered": 200000
+}
+
+{
+    "Policy_Holder_ID":"G01Sher01",
+    "Premium": 30,
+    "Sum_Assuered": 3000000
+}
+
+{
+    "Policy_Holder_ID":"S01Eapan01",
+    "Premium": 100 ,
+    "Sum_Assuered": 1000000
+}
